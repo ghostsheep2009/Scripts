@@ -3,4 +3,4 @@ class Test002:
         print('\n--test002')
 
     def test003(self):
-        print('\n--test002')
+        print('\n--test003')
